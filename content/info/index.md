@@ -11,8 +11,8 @@ unifiedAlt: '© Nathan Richard'
 _build:
   publishResources: false
 ---
-shadira is a minimal website for showcasing some of my photographs.\
-Photography is a small hobby of mine, especially the analog one, hence the huge amount of grain ;)
+shadira is a minimal website for showcasing a wild mix of some of my photographs.\
+Photography is a small hobby of mine, especially the analogue one, hence the huge amount of grain ;)
 
 If you are interested in my other projects, go check out my portfolio: <u>[nathanrichard.dev](https://nathanrichard.dev)</u>
 
