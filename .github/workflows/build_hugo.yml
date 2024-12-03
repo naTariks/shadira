@@ -44,8 +44,7 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --minify
       - name: Push
         uses: s0/git-publish-subdir-action@develop
         env:
