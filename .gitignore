@@ -1,4 +1,5 @@
 # Hugo default output directory
+public/
 resources/
 public/
 hugo_stats.json
