@@ -1,5 +1,7 @@
 # Hugo default output directory
 resources/
+/public/
+hugo_stats.json
 
 node_modules/
 build/
