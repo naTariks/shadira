@@ -5,4 +5,4 @@ Photography is a small hobby of mine, especially the analogue one, hence the hug
 If you are interested in my other projects, go check out my portfolio: [nathanrichard.dev](https://nathanrichard.dev)
 
 The website is built with [Hugo](https://gohugo.io/) using [Bridget](https://themes.gohugo.io/themes/bridget/), a theme made by [Spedon](https://github.com/Sped0n).\
-The Hugo Theme is based on the "Bridget Baker" project by [Tyler McRobert](https://tylermcrobert.com).
+The Hugo Theme is based on the amazing photography portfolio of [Bridget Baker](https://bridget.pictures/), developed by [Tyler McRobert](https://tylermcrobert.com).
